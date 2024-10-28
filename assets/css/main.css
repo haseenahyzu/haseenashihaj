@@ -625,11 +625,11 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background: url(../img/whatsapp1.jpg) top center no-repeat;
+  background: url(../img/background_74.desktop.jpeg.webp) top center no-repeat;
   background-size: cover;
   width: 100%;
   margin-top: -10%;
-  min-height: 140vh;
+  min-height: 110vh;
   position: relative;
   padding: 120px 0 60px 0;
   display: flex;
